@@ -20,7 +20,7 @@ This repository is your ultimate gateway to exploring a treasure trove of data s
 ### 🛠️ Tools Used:
 
 - **Python:** The powerhouse behind the scripts.
-
+  
 - **Beautiful Soup:** For parsing and extracting data from HTML.
 
 - **Requests:** To handle HTTP requests and interact with web pages.
